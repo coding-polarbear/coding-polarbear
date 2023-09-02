@@ -24,7 +24,17 @@ Here are some ideas to get you started:
 ### Career
 AKA AI Android Engineer (2020.03 ~ 2022.08)
 
-### Club
+### Club & Activity
 * [Yourssu](https://github.com/yourssu) Android Engineer (2018 ~ Present)
 * [Yourssu](https://github.com/yourssu) Android Lead (2019)
 * [Yourssu](https://github.com/yourssu) Tech Lead (2020.01 ~ 2022.08)
+* 숭실대학교 컴퓨터/소프트웨어학부 프로젝트 소모임 ISTeam 23기 회장 (2019)
+* SSU Devcamp 안드로이드 멘토 (2022)
+
+
+### Awards
+* 2018년 숭실대학교 창의적공학설계 전시회 대상 (1위 / 1위팀)
+* 제 30회 글로벌 소프트웨어 공모대전 입상
+* 제 1회 K-water 해커톤 장려상
+* 
+
