@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 * 숭실대학교 소프트웨어학부 재학 (2018.03 ~ 현재)
 
 ### Career
-[AKA AI](https://github.com/aka-intelligence) Android Engineer (2020.03 ~ 2022.08)
+* [AKA AI](https://github.com/aka-intelligence) Android Engineer (2020.03 ~ 2022.08)
+* [Sidewalk Entertainment](https://github.com/SidewalkEnt) Android Engineer (2024.03 ~)
 
 ### Club & Activity
 * [Yourssu](https://github.com/yourssu) Android Engineer (2018 ~ Present)
