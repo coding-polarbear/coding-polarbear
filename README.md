@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ### Studies
 * 한세사이버보안고등학교 해킹보안과 졸업 (2015.03 ~ 2018.02)
-* 숭실대학교 소프트웨어학부 재학 (2018.03 ~ 현재)
+* 숭실대학교 소프트웨어학부 졸업 (2018.03 ~ 2025.02)
 
 ### Career
 * [AKA AI](https://github.com/aka-intelligence) Android Engineer (2020.03 ~ 2022.08)
 * [Sidewalk Entertainment](https://github.com/SidewalkEnt) Android Engineer (2024.03 ~)
 
 ### Club & Activity
-* [Yourssu](https://github.com/yourssu) Android Engineer (2018 ~ Present)
+* [Yourssu](https://github.com/yourssu) Android Engineer (2018 ~ 2024)
 * [Yourssu](https://github.com/yourssu) Android Lead (2019)
 * [Yourssu](https://github.com/yourssu) Tech Lead (2020.01 ~ 2022.08)
 * [ISTeam](https://github.com/isteam-ssu) President (2019)
